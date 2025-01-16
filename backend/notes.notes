@@ -1,0 +1,33 @@
+16-01-2025
+backend bnana ha??
+
+express laao 
+    direct na aye to fir package.json me type change kro
+
+app banao
+port define krlo  usko app.listen se pta chalara hai kaha sunna ha 
+
+app bn gya ?
+
+now use it 
+app.get and app.listen 
+
+app.get ko response and request milta hai 
+
+kal metro me aur pdho iske bare me 
+
+
+frontend me data chaiye?
+
+ok data kese bhi lelo 
+-axios
+-fetch
+-get
+
+waha pe jo url jayega wo same url hoga jaha se data jara
+
+--> ab koi hume data kyu dega 
+-> uske liye uski proxy lagao :salute
+kaha lagani hai? han to vite.config.js me kyuuki humne frontend uspe banaya hai
+
+bs yehi hai ajj ka saar
