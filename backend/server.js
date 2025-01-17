@@ -30,7 +30,7 @@ app.get('/api/jokes',(req,res)=>{
           description: "Create a full-stack application to consolidate your learning."
         }
       ];
-      
+      console.log(req)
       res.send(jokes);
 })
 
